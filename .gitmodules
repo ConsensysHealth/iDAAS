@@ -1,0 +1,3 @@
+[submodule "hyperledger-modules/avalon"]
+	path = hyperledger-modules/avalon
+	url = https://github.com/hyperledger/avalon
