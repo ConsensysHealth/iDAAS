@@ -7,4 +7,4 @@ To populate this directory:
 
 or
 
-(2) use `git clone --recurse-submodules https://github.com/RedHat-Healthcare/iDAAS` when checking out the repository.
+(2) use `git clone --recursive https://github.com/RedHat-Healthcare/iDAAS` when checking out the repository.
